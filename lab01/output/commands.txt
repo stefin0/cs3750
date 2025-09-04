@@ -1,0 +1,7 @@
+cd
+mkdir
+touch
+gcc
+./
+ps
+kill
